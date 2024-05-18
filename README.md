@@ -3,4 +3,4 @@ My solutions and code to the challenges on projecteuler.net with challenge descr
 
 
 Contents (challenge number and language used)
-Challenge 1: python
+\n Challenge 1: python
